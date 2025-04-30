@@ -1,10 +1,1 @@
-{
-  "email":"email@email.com",
-  "location":"Sydney, Australia",
-  "name":"Name",
-  "password":"Hunter2",
-  "summary":"I go bananas for security!!",
-  "tel":"0412345678",
-  "username":"user",
-  "website":"URL"
-}
+{"email":"email@email.com","location":"Sydney, Australia","name":"Name","password":"Hunter2","summary":"I go bananas for security!!","tel":"0412345678","username":"user","website":"URL"}
